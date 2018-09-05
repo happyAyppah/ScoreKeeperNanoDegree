@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ScoreKeeper NanoDegree</string>
+
+    <string name="value_zero">0</string>
+    <string name="positive_sign">+</string>
+    <string name="goals">Goals</string>
+    <string name="Shots_on_target">Shots On Target</string>
+    <string name="total_shots">Total Shots</string>
+    <string name="fouls">Foul</string>
+    <string name="Offsides">Offsides</string>
+    <string name="corners">Corners</string>
+    <string name="reset">RESET</string>
+    <string name="next">NEXT</string>
+    <string name="team_A">Team A</string>
+    <string name="team_B">Team B</string>
+    <string name="start">start</string>
+    <string name="football">Football</string>
+
+</resources>
